@@ -1,0 +1,67 @@
+        {
+        "status": "ok",
+        "totalResults": 6,
+        "articles": [
+            {
+            "source": { "id": "bbc-news", "name": "BBC News" },
+            "author": null,
+            "title": "'Now is your time to be heard' - Holding tells cricket discrimination victims to come forward",
+            "description": "West Indies great Michael Holding urges individuals to 'share your story' of discrimination within cricket to a wide-ranging inquiry.",
+            "url": "https://www.bbc.co.uk/sport/cricket/59213148",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/E824/production/_121482495_michaelholden.jpg",
+            "publishedAt": "2021-11-09T00:01:50Z",
+            "content": "Azeem Rafiq played for Yorkshire between 2008-2014, 2016 and 2018 before making his allegations in 2020\r\nWest Indies great Michael Holding has urged individuals to \"share your story\" of discriminatio… [+1454 chars]"
+            },
+            {
+            "source": { "id": "bbc-news", "name": "BBC News" },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "T20 World Cup: The toxic trolling of India's cricket stars",
+            "description": "As online abuse becomes the main form of venting, many worry about the toxicity cricketers face on social media.",
+            "url": "https://www.bbc.co.uk/news/world-asia-india-59059493",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10B4A/production/_121262486_gettyimages-1229852678-594x594.jpg",
+            "publishedAt": "2021-10-30T00:37:20Z",
+            "content": "By Zoya MateenBBC News, Delhi\r\nImage source, Getty Images\r\nImage caption, India's defeat against Pakistan in the T20 World Cup has sparked a wave of online abuse against cricketers\r\nWhen India's cric… [+6973 chars]"
+            },
+            {
+            "source": { "id": "bbc-news", "name": "BBC News" },
+            "author": null,
+            "title": "Yorkshire racism scandal as relevant to England squad as on-field feats - Morgan",
+            "description": "The Yorkshire County Cricket Club racism scandal is \"as serious and as relevant\" to England's squad as any of their feats on the field, says captain Eoin Morgan.",
+            "url": "https://www.bbc.co.uk/sport/cricket/59222810",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/09A5/production/_121496420_gettyimages-1350217659.jpg",
+            "publishedAt": "2021-11-09T14:35:17Z",
+            "content": "People have to think about what they can and can't say - Moeen Ali\r\nThe Yorkshire County Cricket Club racism scandal is \"as serious and as relevant\" to England's squad as any of their feats, says cap… [+3465 chars]"
+            },
+            {
+            "source": { "id": "bbc-news", "name": "BBC News" },
+            "author": null,
+            "title": "England tour of West Indies confirmed for next January and March",
+            "description": "England will face West Indies in five Twenty20s and three Tests in the Caribbean in January and March next year.",
+            "url": "https://www.bbc.co.uk/sport/cricket/58958300",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/7334/production/_121129492_gettyimages-1257926961.jpg",
+            "publishedAt": "2021-10-18T16:18:10Z",
+            "content": "England won the last Test series against West Indies to claim the final Wisden Trophy\r\nEngland will face West Indies in five Twenty20s and three Tests in the Caribbean in January and March next year.… [+1854 chars]"
+            },
+            {
+            "source": { "id": "reuters", "name": "Reuters" },
+            "author": null,
+            "title": "Afghanistan seek members' support ahead of crucial ICC meeting - Reuters",
+            "description": "The Afghanistan Cricket Board (ACB) has requested the support of other full members of the International Cricket Council ahead of next month's crucial meeting where the game's future in the South Asian country is likely to be decided.",
+            "url": "https://www.reuters.com/lifestyle/sports/afghanistan-seek-members-support-ahead-crucial-icc-meeting-2021-10-18/",
+            "urlToImage": "https://www.reuters.com/resizer/ZGqbQ7O1IALltpj2Giu5XRqXpbs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RQ3B52TK6VP2FPSPRS2O5LOJYI.jpg",
+            "publishedAt": "2021-10-18T06:23:00Z",
+            "content": "The International Cricket Council (ICC) logo at the ICC headquarters in Dubai, October 31, 2010. REUTERS/Nikhil MonteiroNEW DELHI, Oct 18 (Reuters) - The Afghanistan Cricket Board (ACB) has requested… [+2310 chars]"
+            },
+            {
+            "source": { "id": "bbc-news", "name": "BBC News" },
+            "author": null,
+            "title": "England players relatively relaxed about Ashes in Australia, says Woakes",
+            "description": "England men's cricketers are \"relatively relaxed\" about travelling to Australia for the Ashes in December, says all-rounder Chris Woakes.",
+            "url": "https://www.bbc.co.uk/sport/cricket/58874150",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/EFEE/production/_121022416_woakes_getty.jpg",
+            "publishedAt": "2021-10-11T14:16:51Z",
+            "content": "Chris Woakes (right) has taken 119 wickets and scored 1,389 runs in 39 Tests for England\r\nEngland men's cricketers are \"relatively relaxed\" about travelling to Australia for the Ashes in December, sa… [+1631 chars]"
+            }
+            
+        ]
+        }
